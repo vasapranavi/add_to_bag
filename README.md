@@ -29,7 +29,13 @@ The task uses historical interaction data, product metadata, and search query in
 
 4. **Results**
    - Generated predictions for holdout (Jan 8).
-   - Saved results in `predictions.csv` with required schema.
+   - Saved results in `predictions.csv` (https://github.com/vasapranavi/add_to_bag/blob/main/add_to_bag_predictions.ipynb) with required schema.
+
+## Production Architecture
+Following is the proposed production level architecture
+
+<img width="385" height="512" alt="image" src="https://github.com/user-attachments/assets/33768a98-d474-416f-8d30-3725653f1f14" />
+
 
 ## Files
 - `add_to_bag_predictions.ipynb`: Main notebook with preprocessing, feature engineering, modeling, evaluation, and prediction pipeline.
