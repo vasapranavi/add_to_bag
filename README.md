@@ -3,7 +3,7 @@
 This project tackles the **Add-to-Bag Prediction Task**, where the goal is to predict the probability that a product shown in search results will be added to a customer’s bag.
 
 ## Project Overview
-Customers use the ASOS search function to find products. For each product displayed, we want to estimate the probability of it being added to the bag.  
+Customers use the search function to find products. For each product displayed, we want to estimate the probability of it being added to the bag.  
 The task uses historical interaction data, product metadata, and search query information to train machine learning models.
 
 ## Data
